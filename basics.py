@@ -7,7 +7,7 @@ from utils import time_it
 import logging
 
 # setting up logging
-path_log_op = '/Users/prb000j/Library/CloudStorage/OneDrive-WalmartInc/Python Learn Projects/Python Projects/learn_logging/log_output/'
+path_log_op = '/Users/p****i/project_folder/learn_logging/log_output/'
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
